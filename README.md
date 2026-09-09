@@ -35,9 +35,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Depth-First Search
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
