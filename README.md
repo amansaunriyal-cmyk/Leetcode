@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0086-partition-list](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0086-partition-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Recursion
 |  |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Two Pointers
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
