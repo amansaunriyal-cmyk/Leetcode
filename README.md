@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0090-subsets-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -58,8 +59,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Counting Sort
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Quicksort
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
