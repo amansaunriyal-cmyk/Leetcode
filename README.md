@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0001-two-sum) |
 | [0078-subsets](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0090-subsets-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0001-two-sum) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
