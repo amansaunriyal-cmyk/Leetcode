@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0086-partition-list](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0086-partition-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Recursion
 |  |
