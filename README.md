@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0090-subsets-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [3483-unique-3-digit-even-numbers](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Backtracking
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [3483-unique-3-digit-even-numbers](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0001-two-sum) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -77,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0086-partition-list) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
