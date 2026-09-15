@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0086-partition-list](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0086-partition-list) |
+| [0143-reorder-list](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0328-odd-even-linked-list) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0143-reorder-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Depth-First Search
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0086-partition-list) |
+| [0143-reorder-list](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0148-sort-list) |
 ## Enumeration
 |  |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0143-reorder-list](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0143-reorder-list) |
 ## Bracket Sequences
 |  |
 | ------- |
