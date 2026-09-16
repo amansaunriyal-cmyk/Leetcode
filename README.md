@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0001-two-sum) |
+| [0074-search-a-2d-matrix](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0090-subsets-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -115,4 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0148-sort-list) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0074-search-a-2d-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
