@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
@@ -119,9 +120,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0074-search-a-2d-matrix) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
