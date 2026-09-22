@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0090-subsets-ii) |
+| [0179-largest-number](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0179-largest-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [3483-unique-3-digit-even-numbers](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0148-sort-list) |
+| [0179-largest-number](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0179-largest-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Counting Sort
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0179-largest-number](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0179-largest-number) |
 ## Stack
 |  |
 | ------- |
@@ -132,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0069-sqrtx) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
