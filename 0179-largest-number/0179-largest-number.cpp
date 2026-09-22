@@ -1,0 +1,30 @@
+class Solution {
+public:
+    string largestNumber(vector<int>& nums) {
+
+        vector<string> v;
+
+        // Convert integers to strings
+        for (int x : nums) {
+            v.push_back(to_string(x));
+        }
+
+        // Custom sorting
+        sort(v.begin(), v.end(), [](string a, string b) {
+            return a + b > b + a;
+        });
+
+        // If all numbers are 0
+        if (v[0] == "0")
+            return "0";
+
+        // Join all strings
+        string ans = "";
+
+        for (string s : v) {
+            ans += s;
+        }
+
+        return ans;
+    }
+};
