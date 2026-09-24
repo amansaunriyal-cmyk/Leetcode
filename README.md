@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [3483-unique-3-digit-even-numbers](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Backtracking
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0070-climbing-stairs) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Dynamic Programming
 |  |
 | ------- |
