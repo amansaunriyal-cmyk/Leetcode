@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0202-happy-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Dynamic Programming
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0202-happy-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0148-sort-list) |
+| [0202-happy-number](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0202-happy-number) |
 ## Enumeration
 |  |
 | ------- |
@@ -143,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0179-largest-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
