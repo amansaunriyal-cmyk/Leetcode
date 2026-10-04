@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0090-subsets-ii) |
 | [0179-largest-number](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0179-largest-number) |
+| [0496-next-greater-element-i](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [3483-unique-3-digit-even-numbers](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0202-happy-number) |
+| [0496-next-greater-element-i](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0143-reorder-list](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0143-reorder-list) |
+| [0496-next-greater-element-i](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -150,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0202-happy-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
