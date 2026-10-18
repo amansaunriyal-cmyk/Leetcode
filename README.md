@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0090-subsets-ii) |
 | [0179-largest-number](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0179-largest-number) |
 | [0496-next-greater-element-i](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0496-next-greater-element-i) |
+| [1019-next-greater-node-in-linked-list](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [3483-unique-3-digit-even-numbers](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0143-reorder-list) |
 | [0496-next-greater-element-i](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0496-next-greater-element-i) |
+| [1019-next-greater-node-in-linked-list](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/0496-next-greater-element-i) |
+| [1019-next-greater-node-in-linked-list](https://github.com/amansaunriyal-cmyk/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Tree
 |  |
 | ------- |
